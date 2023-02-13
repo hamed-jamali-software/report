@@ -17,10 +17,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
 
-import com.ibm.icu.text.ArabicShaping;
-import com.ibm.icu.text.ArabicShapingException;
-import com.ibm.icu.text.Bidi;
-import org.apache.pdfbox.pdmodel.font.PDFont;
+
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
